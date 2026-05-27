@@ -1,3 +1,7 @@
+---
+consumers: ["agentic-audit"]
+---
+
 # ![RealWorld Example App](.github/assets/logo.png)
 
 # Windsurf Demo Project
